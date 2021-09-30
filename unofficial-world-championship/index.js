@@ -27,6 +27,16 @@ sample data:
     ],
     [
         {
+            name: "argentina",
+            score: 2
+        },
+        {
+            name: "sweden",
+            score: 0
+        }
+    ],
+    [
+        {
             name: "paraguay",
             score: 2
         },
